@@ -20,7 +20,7 @@ public class ArrayTest {
         friends = new String[5]; // fixed size of 5
         String [] friendsTwo = {"Eric","Andrew","Evan Mitchell"};
         friendsTwo[1]="Nick";
-        int [] ages = new int[5];
+        int [] ages = {17,15,17};
 //        for (int i=0;i<friendsTwo.length;i++){
 //            System.out.println(friendsTwo[i]);
 //        }
